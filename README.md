@@ -3,10 +3,14 @@ Sistema IoT de Monitoramento e Alerta de Enchentes
 Este projeto utiliza ESP32 + HC-SR04 para medir o nível da água e enviar
 dados para um backend.
 
-FUNCIONALIDADES: - Medição contínua do nível da água. - Classificação
-dos níveis: Normal, Médio e Alerta Máximo. - LED piscante com diferentes
-padrões. - Conexão Wi-Fi com reconexão automática. - Envio periódico de
-dados para o backend.
+FUNCIONALIDADES: 
+- Medição contínua do nível da água. 
+- Classificação
+dos níveis:
+Normal, Médio e Alerta Máximo.
+- LED piscante com diferentes padrões.
+- Conexão Wi-Fi com reconexão automática.
+- Envio periódico de dados para o backend.
 
 ```wifi
 const char* ssid = "suaRede";
