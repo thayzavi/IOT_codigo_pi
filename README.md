@@ -29,3 +29,5 @@ COMO USAR:
 2. Faça o upload no ESP32.
 3.Abra o Serial Monitor (115200).
 4. Observe as leituras e alertas.
+
+![IMG_3035](https://github.com/user-attachments/assets/bd79dfad-480a-463f-bc37-9acfabaa977a)
